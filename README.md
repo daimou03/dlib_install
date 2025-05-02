@@ -3,6 +3,7 @@
 
 # 安装教程
 博客：https://blog.csdn.net/weixin_58403869/article/details/147673670?spm=1001.2014.3001.5501
+
 微信公众号：https://mp.weixin.qq.com/s/r-NM7R4txNl8NDQlAM4sbw
 
 github 直接在dlib_whl_files文件夹下进行，根据对应python下载对应的dlib库的whl文件
